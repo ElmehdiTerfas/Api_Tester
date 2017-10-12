@@ -1,0 +1,26 @@
+{
+  "name": "api_tester",
+  "version": "1.0.0",
+  "description": "Webapp to test api applications",
+  "main": "index.js",
+  "dependencies": {
+    "materialize-css": "^0.100.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ElmehdiTerfas/Api_Tester.git"
+  },
+  "keywords": [
+    "api"
+  ],
+  "author": "Terfas Elmehdi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ElmehdiTerfas/Api_Tester/issues"
+  },
+  "homepage": "https://github.com/ElmehdiTerfas/Api_Tester#readme"
+}
